@@ -188,6 +188,15 @@ dir_node_exact_matches = {
     'Public'                           : '',
     'Templates'                        : '',
     'Videos'                           : '',
+# Chinese(Simple)
+    '桌面'                              : '',
+    '文档'                              : '',
+    '下载'                              : '',
+    '音乐'                              : '',
+    '图片'                              : '',
+    '公共'                              : '',
+    '模板'                              : '',
+    '视频'                              : '',
 # Spanish
     'Escritorio'                       : '',
     'Documentos'                       : '',
